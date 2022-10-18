@@ -1,2 +1,1 @@
-# printf
-This is a group work, the first group work in alx-low_level_programming.
+creating a printf like d standard library

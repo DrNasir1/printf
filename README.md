@@ -1,1 +1,1 @@
-Bello And Stephen Team project on printf.
+creating a printf like d standard library
